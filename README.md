@@ -1,6 +1,6 @@
 # Hi, I'm Periklis 👋
 
-Aspiring Data Analyst with a background in Applied Mathematics and a strong interest in turning data into insights.
+Aspiring Data Analyst with a background in Applied Mathematics and Software Development with a strong interest in turning data into insights.
 
 🔍 Currently building hands-on projects in:
 - Data Analysis
