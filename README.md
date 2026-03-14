@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Periklis 👋
 
-<!--
-**peri1387/peri1387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with a background in Applied Mathematics and a strong interest in turning data into insights.
 
-Here are some ideas to get you started:
+🔍 Currently building hands-on projects in:
+- Data Analysis
+- SQL & Python
+- Excel & Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Focus areas:
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Sports & Business Data Projects
+
+🚀 Goal: Start my career as a **Data Analyst** and grow into advanced analytics and data-driven decision making.
+
+📂 Check out my projects below.
+
+📫 Connect with me on LinkedIn : https://www.linkedin.com/in/periklis-andrianos-2783a3337/
+                   or by Email : periandrianos@gmail.com
