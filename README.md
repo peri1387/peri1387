@@ -2,6 +2,8 @@
 
 Aspiring Data Analyst with a background in Applied Mathematics and Software Development with a strong interest in turning data into insights.
 
+🌐 Take a look to my personal portfolio : https://peri1387.github.io/
+
 🔍 Currently building hands-on projects in:
 - Data Analysis
 - SQL & Python
