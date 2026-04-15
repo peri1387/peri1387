@@ -1,6 +1,15 @@
 # Hi, I'm Periklis 👋
 ### 📊 Junior Data Analyst | BSc Applied Mathematics | IT Diploma
-#### Python • SQL • Pandas • NumPy • Matplotlib • Excel • Power BI
+#### Python • SQL • Pandas • NumPy • Matplotlib • R • Power BI • Excel
+
+![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=black&color=black)
+  ![Static Badge](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&labelColor=white&color=white)
+  ![Static Badge](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas)  ![Static Badge](https://img.shields.io/badge/numpy-darkblue?style=for-the-badge&logo=numpy)  ![Static Badge](https://img.shields.io/badge/matplotlib-lightblue?style=for-the-badge&logo=graphs)  ![Static Badge](https://img.shields.io/badge/ggplot2-blue?style=for-the-badge&logo=r&color=darkblue)
+  ![Static Badge](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&labelColor=blue)  ![Static Badge](https://img.shields.io/badge/excel-darkgreen?style=for-the-badge)
+
+
+
+
 
 ----------------------------------------------------------------------
 
